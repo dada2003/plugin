@@ -10,5 +10,12 @@
 
 }
 body{
-    background-color: mediumslateblue;
+    /*background-color: mediumslateblue;*/
+}
+body{
+    background-image: url("../img/cover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 4;
+
 }
